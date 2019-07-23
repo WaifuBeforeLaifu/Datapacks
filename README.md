@@ -19,6 +19,12 @@ Lets you grab 2 block high ledges and climb up them.
 ### [Mini UHC](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Mini%20UHC)
 Custom UHC game mode
 
+### [Press F to Pay Respects](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Press%20F%20to%20Pay%20Respects)
+Says "Press F to pay respects" when someone dies. Click the message to pay your respects.
+
+### [Screaming Creepers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Screaming%20Creepers)
+Creepers scream periodically.
+
 ### [Screaming Diamonds](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Screaming%20DIamonds)
 Diamonds scream when you mine them.
 
