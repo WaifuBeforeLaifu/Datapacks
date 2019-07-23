@@ -1,5 +1,5 @@
 # Ledge Grab
-Recommended Version: 1.13.2+
+Recommended Version: 1.13.2
 
 Newest Verion: [Ledge Grab V2.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Ledge%20Grab/Ledge%20Grab%20v2.1.zip)
 
