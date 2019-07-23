@@ -1,5 +1,5 @@
 # Datapacks
-A place to upload all my datapacks. May not always be up to date
+A place to upload all my datapacks. Feel free to support me at [Ko-fi](https://ko-fi.com/waifubeforelaifu)
 
 ### [Custom Crafting](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Custom%20Crafting)
 Dependency for any of my datapacks that include custom crafting recipes
