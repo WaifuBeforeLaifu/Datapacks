@@ -21,3 +21,15 @@ Includes many modules that allow the player to make small changed to their game.
 
 ## Stonecutters
 - Instakill: Stonecutters will instakill any players stepping on them
+
+## Paths
+- Fast Paths: Path blocks will give players speed 1 when walking on them
+
+## Crawling
+- Crawl Anywhere: Sneak and look straight down to start crawling. Look up to stop.
+
+## Phantoms
+- Weak Phantoms: Phantoms are silenced and are unable to do damage.
+
+## Elytra
+- Infinite Fireworks: Hold a firework in your offhand while wearing elytra to gain infinite fireworks. Only works with duration 1 and with no firework charge.
