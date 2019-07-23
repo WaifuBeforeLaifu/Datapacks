@@ -1,7 +1,7 @@
 # Warp Gates
 Required Version: 1.14.4+
 
-Dependencies: Custom Crafting ADD LINK LATER
+Dependencies: [Custom Crafting V1+](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Custom%20Crafting)
 
 Newest Verion: [Warp Gates V2](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Warp%20Gates/Warp%20Gates%20V2.zip)
 
