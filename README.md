@@ -2,7 +2,7 @@
 A place to upload all my datapacks. May not always be up to date
 
 ### [Custom Crafting](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Custom%20Crafting)
-Dependency for any of my datapacks that have custom crafting recipes
+Dependency for any of my datapacks that include custom crafting recipes
 
 ### [Death Punishments](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Death%20Punishments)
 Gives players extra punishments on death. Mostly useful if keep inventory is on.
