@@ -8,7 +8,7 @@ Dependency for any of my datapacks that include custom crafting recipes
 Gives players extra punishments on death. Mostly useful if keep inventory is on.
 
 ### [Fire Arrows](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Fire%20Arrows)
-Creates fire on any block that a lit arrow lands. Will destroy the arrow in the proccess.
+Creates fire on any block that a lit arrow lands, destroying the arrow in the proccess.
 
 ### [Flashbangs](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Flashbangs)
 Adds craftable flashbangs.
