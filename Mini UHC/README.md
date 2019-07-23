@@ -1,5 +1,5 @@
 # Mini UHC
-Recommended Version: 1.14.4+
+Recommended Version: 1.14.4
 
 Newest Verion: [Mini UHC V1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V1.zip)
 
