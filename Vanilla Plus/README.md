@@ -8,3 +8,16 @@ Includes many modules that allow the player to make small changed to their game.
 ## Dogs
 - Passive Regen: gives all tamed dogs regen when they get hurt
 - Armor: Gives all tamed dogs iron level armor.
+
+## Iron Golems
+- Passive Regen: gives all iron golems regen when they get hurt
+
+## Villagers
+- Passive Regen: gives all villagers regen when they get hurt
+- Invunerability: Drop a golden axe at a villager's feet to make them invulnerable. Remove it with a stone axe
+
+## Slimes
+- Spawn Everywhere: Allows baby slimes to spawn everywhere a creeper can spawn.
+
+## Stonecutters
+- Instakill: Stonecutters will instakill any players stepping on them
