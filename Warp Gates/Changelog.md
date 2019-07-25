@@ -1,4 +1,4 @@
-#V1 > V2
+# V1 > V2
 - Reduced size of world border
 - Slowed down the world border
 - Reduced max range players can spawn from the center
