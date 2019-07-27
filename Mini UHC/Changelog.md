@@ -16,3 +16,10 @@
 - Removed change to random tick speed to lessen the lag
 - Added functionality for care packaged to be dropped at 45 minutes in. Not enabled as of right now
 - Drop TNT(item) on the ground to turn it into unstable TNT
+
+# V2.2
+- Made some small optimizations to tick.mcfunction
+- Iron and gold ore autosmelt when mined to speed up resource gathering
+- Added "/trigger uhcinfo" for players to get a direct link to my github
+- Updated the hub to tell players about /trigger
+- Added an ingame message telling players how to use a campfire
