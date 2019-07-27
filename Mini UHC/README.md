@@ -1,7 +1,7 @@
 # Mini UHC
 Required Version: 1.14.4
 
-Newest Verion: [Mini UHC V2.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.1.zip)
+Newest Verion: [Mini UHC V2.2](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.2.zip)
 
 ## How to start a game
 1. Load the datapack into a brand new world
