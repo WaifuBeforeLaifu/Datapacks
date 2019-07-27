@@ -7,6 +7,7 @@ Newest Verion: [Mini UHC V2.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 1. Load the datapack into a brand new world
 2. Have the host run "/function miniuhc:gamesetup"
 3. Once everyone is on a team, have the host run "/function miniuhc:gamestart"
+4. If you want to run a second game in the same world, please run "/reload" then go to step 2
 
 ## Mechanical Changes
 - Natural Regen is turned off
@@ -20,6 +21,8 @@ Newest Verion: [Mini UHC V2.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 ## Hard coded rules
 - Do not try to enter the hub while the game is running. You will die
 - No entering the nether
+- No eyes of ender
+- No totems of undying
 
 ## Other Info
 - The center will always be at 0,0
