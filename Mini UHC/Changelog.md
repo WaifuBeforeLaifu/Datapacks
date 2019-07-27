@@ -23,3 +23,8 @@
 - Added "/trigger uhcinfo" for players to get a direct link to my github
 - Updated the hub to tell players about /trigger
 - Added an ingame message telling players how to use a campfire
+
+# V2.3
+- Campfires can now be placed like normal instead of dropped to give the healing effect
+- Updated campfire message
+- Made optimizations to the regen effect you get from beds
