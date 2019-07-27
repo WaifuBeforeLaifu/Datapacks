@@ -28,3 +28,8 @@
 - Campfires can now be placed like normal instead of dropped to give the healing effect
 - Updated campfire message
 - Made optimizations to the regen effect you get from beds
+
+# V2.4
+- Set gamerule reducedDebugInfo back to true
+- Removed previous world border warnings
+- Added a message that tells you your coordinates every 5 minutes, along with distance from the world border
