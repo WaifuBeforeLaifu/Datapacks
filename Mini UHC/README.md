@@ -17,6 +17,10 @@ Newest Verion: [Mini UHC V2.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 - Craft a golden apple with only 1 ingot instead of 8
 - Anvils will instakill players if dropped on them
 
+## Hard coded rules
+- Do not try to enter the hub while the game is running. You will die
+- No entering the nether
+
 ## Other Info
 - The center will always be at 0,0
 - The world border spawns at 5400 blocks out and moves at a rate of 1 block per second
@@ -25,3 +29,5 @@ Newest Verion: [Mini UHC V2.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 - The compass will always point to the center unless you change your spawnpoint with a bed
 - Do not use this in a world you care about. It will make the world unplayable in normal survival
 
+## Known bugs
+- If you leave the server and are the last person on your team, you will automatically lose
