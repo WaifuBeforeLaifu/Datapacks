@@ -1,7 +1,7 @@
 # Mini UHC
 Required Version: 1.14.4
 
-Newest Verion: [Mini UHC V2.2](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.2.zip)
+Newest Verion: [Mini UHC V2.3](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.3.zip)
 
 ## How to start a game
 1. Load the datapack into a brand new world
@@ -12,7 +12,7 @@ Newest Verion: [Mini UHC V2.2](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 ## Mechanical Changes
 - Natural Regen is turned off
 - Beds will heal you if you have full hunger
-- Drop a campfire(item) on the ground to create a healing campfire
+- Place a campfire to get a small regeneration effect
 - Drop TNT(item) on the ground to turn it into unstable tnt
 - Craft 9 of any leaves together to make an apple
 - Craft a golden apple with only 1 ingot instead of 8
@@ -35,3 +35,4 @@ Newest Verion: [Mini UHC V2.2](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 
 ## Known bugs
 - If you leave the server and are the last person on your team, you will automatically lose
+- Sometimes the campfires will not give the regeneration effect. Try aiming your crosshairs near the center of the block when placing a campfire to avoid this issue.
