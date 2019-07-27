@@ -17,6 +17,7 @@ Newest Verion: [Mini UHC V2.2](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 - Craft 9 of any leaves together to make an apple
 - Craft a golden apple with only 1 ingot instead of 8
 - Anvils will instakill players if dropped on them
+- Iron and gold ore will drop the smelted ingot
 
 ## Hard coded rules
 - Do not try to enter the hub while the game is running. You will die
