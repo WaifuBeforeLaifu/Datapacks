@@ -33,3 +33,11 @@
 - Set gamerule reducedDebugInfo back to true
 - Removed previous world border warnings
 - Added a message that tells you your coordinates every 5 minutes, along with distance from the world border
+
+# V2.5
+- More optimizations to tick.mcfunction
+- Fixed world border warnings not updating
+- Sets time to morning when game starts
+- Made optimizations to the world border warning
+- Removed campfire info message
+- Moved the setworldspawn command to gamesetup.mcfunction to avoid having players spawn in the air upon world creation
