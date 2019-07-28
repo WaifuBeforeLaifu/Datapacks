@@ -1,7 +1,7 @@
 # Mini UHC
 Required Version: 1.14.4
 
-Newest Verion: [Mini UHC V2.4](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.4.zip)
+Newest Verion: [Mini UHC V2.5](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.5.zip)
 
 ## How to start a game
 1. Load the datapack into a brand new world
@@ -35,4 +35,6 @@ Newest Verion: [Mini UHC V2.4](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 
 ## Known bugs
 - If you leave the server and are the last person on your team, you will automatically lose
-- Sometimes the campfires will not give the regeneration effect. Try aiming your crosshairs near the center of the block when placing a campfire to avoid this issue.
+- Sometimes the campfires will not give the regeneration effect. Try aiming your crosshairs near the center of the block when placing a campfire to avoid this issue
+- If your absolute X and Z values are the same when the world border warning gets sent out, you will recieve 2 messages. Not intending on fixing right now
+
