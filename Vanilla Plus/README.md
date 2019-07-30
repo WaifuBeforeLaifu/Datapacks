@@ -1,5 +1,5 @@
 # Vanilla Plus
-Required Version: 1.13.2
+Recommended Version: 1.13.2
 
 Newest Verion: [Vanilla Plus V3.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Vanilla%20Plus/Vanilla%20Plus%20v3.1.zip)
 
