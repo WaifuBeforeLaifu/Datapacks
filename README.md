@@ -15,6 +15,9 @@ Creates fire on any block that a lit arrow lands, destroying the arrow in the pr
 ### [Flashbangs](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Flashbangs)
 Adds craftable flashbangs.
 
+### [Homing Arrows](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Homing%20Arrows)
+Adds a bow that will shoot homing arrows. Mostly a proof of concept and learning experience for myself.
+
 ### [Ledge Grab](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Ledge%20Grab)
 Lets you grab 2 block high ledges and climb up them.
 
