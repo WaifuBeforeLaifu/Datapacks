@@ -41,3 +41,9 @@
 - Made optimizations to the world border warning
 - Removed campfire info message
 - Moved the setworldspawn command to gamesetup.mcfunction to avoid having players spawn in the air upon world creation
+
+# V2.6
+- Updated the Hub to look nicer
+- Removed unused scoreboard objectives
+- Added the option to set the max players per team. Set to 10 by default
+- Major optimizations to tick.mcfunction
