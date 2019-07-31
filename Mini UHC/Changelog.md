@@ -47,3 +47,6 @@
 - Removed unused scoreboard objectives
 - Added the option to set the max players per team. Set to 10 by default
 - Major optimizations to tick.mcfunction
+
+# V2.7
+- Fixed world border messages. again
