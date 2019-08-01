@@ -58,3 +58,7 @@
 - Made villages a bit more hostile
 - Diamonds can be crafted with 4 emeralds
 - Fixed issue where players wouldn't be in adventure mode in the hub
+
+# V2.8.1
+- Lessened the lag created by tick.mcfunction by making a lot of commands run less often
+- Fixed the issue where replacing villagers would spawn 2 zombies
