@@ -50,3 +50,11 @@
 
 # V2.7
 - Fixed world border messages. again
+
+# V2.8
+- Removed death messages that told you what team killed who
+- Changed gold apples from starting kit into campfires
+- Added the other stone tools to the starting kit
+- Made villages a bit more hostile
+- Diamonds can be crafted with 4 emeralds
+- Fixed issue where players wouldn't be in adventure mode in the hub
