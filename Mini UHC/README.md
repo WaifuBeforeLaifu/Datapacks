@@ -16,6 +16,7 @@ Newest Verion: [Mini UHC V2.8](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 - Drop TNT(item) on the ground to turn it into unstable tnt
 - Craft 9 of any leaves together to make an apple
 - Craft a golden apple with only 1 ingot instead of 8
+- Craft a diamond with 4 emeralds
 - Anvils will instakill players if dropped on them
 - Iron and gold ore will drop the smelted ingot
 
