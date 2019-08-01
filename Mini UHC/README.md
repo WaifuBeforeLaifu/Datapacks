@@ -1,7 +1,7 @@
 # Mini UHC
 Required Version: 1.14.4
 
-Newest Verion: [Mini UHC V2.8](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.8.zip)
+Newest Verion: [Mini UHC V2.8.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.8.1.zip)
 
 ## How to start a game
 1. Load the datapack into a brand new world
@@ -19,6 +19,7 @@ Newest Verion: [Mini UHC V2.8](https://github.com/WaifuBeforeLaifu/Datapacks/raw
 - Craft a diamond with 4 emeralds
 - Anvils will instakill players if dropped on them
 - Iron and gold ore will drop the smelted ingot
+- Villages have been made more dangerous
 
 ## Hard coded rules
 - Do not try to enter the hub while the game is running. You will die
