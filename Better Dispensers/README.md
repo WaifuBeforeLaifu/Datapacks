@@ -1,7 +1,7 @@
 # Better Dispensers
 Recommended Version Version: 1.14.4
 
-Newest Verion: [Better Dispensers V1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Homing%20Arrows/Homing%20Arrows%20V1.zip)
+Newest Verion: [Better Dispensers V1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Better%20Dispensers/Better%20Dispensers%20V1.zip)
 
 Drop 1 gold ingot ontop of a dispenser to upgrade it. Upgraded dispensers are capable of placing sand, gravel, and concrete powder instead of dropping the item.
 
