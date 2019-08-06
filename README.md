@@ -1,7 +1,10 @@
 # Datapacks
 A place to upload all my datapacks. Feel free to support me at [Ko-fi](https://ko-fi.com/waifubeforelaifu)
 
-If the version is listed as recommended, it probably works in other verions of minecraft 1.13 or higher. If it is listed as required, you must use that version and high versions may work.
+If the version is listed as recommended, it probably works in other verions of minecraft 1.13 or higher. If it is listed as required, you must use that version and high versions may work. 
+
+### [Better Dispensers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Better%20Dispensers)
+Create dispensers capable of placing sand, gravel, and concrete powder
 
 ### [Custom Crafting](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Custom%20Crafting)
 Dependency for any of my datapacks that include custom crafting recipes
