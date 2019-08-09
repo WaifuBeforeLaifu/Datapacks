@@ -6,6 +6,9 @@ If the version is listed as recommended, it probably works in other verions of m
 ### [Better Dispensers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Better%20Dispensers)
 Create dispensers capable of placing sand, gravel, and concrete powder
 
+### [Block Breaker](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Block%20Breaker)
+Create a mechanism that will break blocks for you
+
 ### [Custom Crafting](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Custom%20Crafting)
 Dependency for any of my datapacks that include custom crafting recipes
 
