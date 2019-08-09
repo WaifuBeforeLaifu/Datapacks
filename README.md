@@ -9,6 +9,9 @@ Create dispensers capable of placing sand, gravel, and concrete powder
 ### [Block Breaker](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Block%20Breaker)
 Create a mechanism that will break blocks for you
 
+### [Corvo's Blink](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Corvo's%20Blink)
+Use the blink ability from Dishonored 1&2
+
 ### [Custom Crafting](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Custom%20Crafting)
 Dependency for any of my datapacks that include custom crafting recipes
 
