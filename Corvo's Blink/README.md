@@ -1,5 +1,7 @@
-# Block Breaker
+# Corvo's Blink
 Recommended Version: 1.14.4
+
+Dependencies: [UUID Manager](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/UUID%20Manager)
 
 Newest Verion: [Corvo's Blink V1.2](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Corvo's%20Blink/Corvo's%20Blink%20V1.2.zip)
 
