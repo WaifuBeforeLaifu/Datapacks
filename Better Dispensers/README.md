@@ -9,3 +9,4 @@ Drop 1 gold ingot ontop of a dispenser to upgrade it. Upgraded dispensers are ca
 - Block may sometimes be generated on the wrong space. Restrict the area the dispenser fires into to avoid this.
 - Nearby dropped sand/gravel/concrete may be turned into a block instead of the item fired from the dispenser. 
 - Very fast clocks will not work with the dispenser.
+- If you are too close to the front of the dispenser you will pick up the item before it turns into a solid block.
