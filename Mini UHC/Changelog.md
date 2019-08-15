@@ -62,3 +62,6 @@
 # V2.8.1
 - Lessened the lag created by tick.mcfunction by making a lot of commands run less often
 - Fixed the issue where replacing villagers would spawn 2 zombies
+
+# V2.9
+- Hard coded a rule to make it so players can hold a max of 8 regular golden apples
