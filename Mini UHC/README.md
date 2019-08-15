@@ -1,7 +1,7 @@
 # Mini UHC
 Required Version: 1.14.4
 
-Newest Verion: [Mini UHC V2.8.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Mini%20UHC/Mini%20UHC%20V2.8.1.zip)
+Newest Verion: [Mini UHC V2.9](https://github.com/WaifuBeforeLaifu/Datapacks/blob/master/Mini%20UHC/Mini%20UHC%20V2.9.zip)
 
 ## How to start a game
 1. Load the datapack into a brand new world
@@ -26,6 +26,7 @@ Newest Verion: [Mini UHC V2.8.1](https://github.com/WaifuBeforeLaifu/Datapacks/r
 - No entering the nether
 - No eyes of ender
 - No totems of undying
+- Players cannot hold more than 8 regular golden apples in their inventory.
 
 ## Other Info
 - The center will always be at 0,0
