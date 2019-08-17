@@ -48,6 +48,9 @@ Diamonds scream when you mine them.
 ### [Super sponge](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Super%20Sponge)
 Sponge that can eat away at the whole world.
 
+### [TNT Yeeter Drones](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/TNT%20Yeeter%20Drones)
+Custom mob that drops tnt on the player.
+
 ### [TNT Yeeters](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/TNT%20Yeeters)
 Custom mob that throws tnt at the player.
 
