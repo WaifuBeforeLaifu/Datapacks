@@ -21,6 +21,9 @@ Gives players extra punishments on death. Mostly useful if keep inventory is on.
 ### [Fast Animal Aging](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Fast%20Animal%20Aging)
 Makes animal grow into adulthood almost instantly
 
+### [Feral Cats](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Feral%20Cats)
+Randomly spawning cats that will attempt to kill you
+
 ### [Fire Arrows](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Fire%20Arrows)
 Creates fire on any block that a lit arrow lands, destroying the arrow in the proccess.
 
