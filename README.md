@@ -3,6 +3,8 @@ A place to upload all my datapacks. Feel free to support me at [Ko-fi](https://k
 
 If the version is listed as recommended, it probably works in other verions of minecraft 1.13 or higher. If it is listed as required, you must use that version and high versions may work. 
 
+If the datapack seems to be broken after an update, please open an issue with the proper label. Do not open an issue during snapshot versions unless the issue has been present for multiple versions.
+
 ### [Better Dispensers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Better%20Dispensers)
 Create dispensers capable of placing sand, gravel, and concrete powder
 
