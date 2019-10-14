@@ -47,6 +47,9 @@ Custom UHC game mode
 ### [Press F to Pay Respects](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Press%20F%20to%20Pay%20Respects)
 Says "Press F to pay respects" when someone dies. Click the message to pay your respects.
 
+### [Pumpkin Autocarver](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Pumpkin%20Autocarver)
+Drop shears onto a dropper to turn it into an autocarver. Whill carve the pumpkin in front of the dropper when it recieves a redstone pulse.
+
 ### [Screaming Creepers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Screaming%20Creepers)
 Creepers scream periodically.
 
