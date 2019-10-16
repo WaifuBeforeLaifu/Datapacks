@@ -65,6 +65,9 @@ Custom mob that drops tnt on the player.
 ### [TNT Yeeters](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/TNT%20Yeeters)
 Custom mob that throws tnt at the player.
 
+### [Turrets](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Turrets)
+Craftable and upgradeable turrets.
+
 ### [Vanilla Plus](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Vanilla%20Plus)
 Many small changes to the game to make it more fun. 
 
