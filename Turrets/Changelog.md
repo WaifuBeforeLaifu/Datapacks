@@ -6,3 +6,8 @@
 
 # V0.11
 - Now auto targets all naturally hostile mobs. Does not target neutral mobs or players unless the tag "thostile" is manually added to them. 
+
+# V1.0
+- Upgrade items are now cleared from players' inventories.
+- Turrets only drop the spawn egg when destroyed by players.
+- Different projectiles are planned to maybe be added in a later update
