@@ -35,6 +35,9 @@ Adds craftable flashbangs.
 ### [Gravity Guns](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Gravity%20Guns)
 Proof of concept of a gravity gun.
 
+### [Growable Slimes](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Growable%20Slimes)
+Drop slimeballs onto slimes to make them grow. Probably not usefull in survival.
+
 ### [Homing Arrows](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Homing%20Arrows)
 Adds a bow that will shoot homing arrows. Mostly a proof of concept and learning experience for myself.
 
