@@ -59,6 +59,9 @@ Creepers scream periodically.
 ### [Screaming Diamonds](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Screaming%20DIamonds)
 Diamonds scream when you mine them.
 
+### [Stalker](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Stalker)
+Add's a miniboss similar to Warframe's Stalker.
+
 ### [Super sponge](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Super%20Sponge)
 Sponge that can eat away at the whole world.
 
