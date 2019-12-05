@@ -1,5 +1,5 @@
 # Beemons
-Recommended Version Version: 1.15 pre-5
+Required Version: 1.15 pre-5 or higher
 
 Newest Verion: [Beemons V1.0](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Beemons/Beemons%20V1.0.zip)
 
