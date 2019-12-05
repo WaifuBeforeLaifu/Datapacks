@@ -1,5 +1,5 @@
 # Better Dispensers
-Recommended Version Version: 1.14.4
+Recommended Version: 1.14.4
 
 Newest Verion: [Better Dispensers V1.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Better%20Dispensers/Better%20Dispensers%20V1.1.zip)
 
