@@ -1,5 +1,5 @@
 # TNT Yeeters
-Recommended Version: 1.14.4
+Recommended Version: 1.15 pre-4
 
 Newest Verion: [TNT Yeeter V2.0](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/TNT%20Yeeters/TNT%20Yeeter%20V2.0.zip)
 
