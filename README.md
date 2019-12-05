@@ -5,6 +5,9 @@ If the version is listed as recommended, it probably works in other verions of m
 
 If the datapack seems to be broken after an update, please open an issue with the proper label. Do not open an issue during snapshot versions unless the issue has been present for multiple versions.
 
+### [Beemons](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Beemons)
+Naturally spawning bee demons. 
+
 ### [Better Dispensers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Better%20Dispensers)
 Create dispensers capable of placing sand, gravel, and concrete powder
 
