@@ -1,7 +1,7 @@
 # Vanilla Plus
-Recommended Version: 1.13.2
+Recommended Version: 1.13.2 - Should work in 1.15
 
-Newest Verion: [Vanilla Plus V3.1](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Vanilla%20Plus/Vanilla%20Plus%20v3.1.zip)
+Newest Verion: [Vanilla Plus V4.0](https://github.com/WaifuBeforeLaifu/Datapacks/blob/master/Vanilla%20Plus/Vanilla%20Plus%20V4.0.zip)
 
 Includes many modules that allow the player to make small changed to their game. The pack will not do anything until you run "/function vp:setup" and turn on modules.
 
@@ -33,3 +33,10 @@ Includes many modules that allow the player to make small changed to their game.
 
 ## Elytra
 - Infinite Fireworks: Hold a firework in your offhand while wearing elytra to gain infinite fireworks. Only works with duration 1 and with no firework charge.
+
+## Snow Golems
+- Passive Regen: Gives all snowmen regen when they're hurt
+- Damage: Snow golems fire arrows instead of snowballs now
+
+## Campfires
+- Regen: Campfires now act like mini regen beacons that give all nearby entities a slow regen.
