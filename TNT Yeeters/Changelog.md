@@ -17,3 +17,6 @@
 - Rewrote most of the functions to make it more efficient
 - Fixed an issue where the yeeter would die if the head got pushed into a wall
 - Yeeters can now spawn anywhere instead of just on the surface
+
+# V2.1
+- Forgot to add a scoreboard objective in load.mcfunction
