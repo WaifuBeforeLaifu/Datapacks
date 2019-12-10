@@ -1,7 +1,7 @@
 # Vanilla Plus
 Recommended Version: 1.13.2 - Should work in 1.15
 
-Newest Verion: [Vanilla Plus V4.0](https://github.com/WaifuBeforeLaifu/Datapacks/blob/master/Vanilla%20Plus/Vanilla%20Plus%20V4.0.zip)
+Newest Verion: [Vanilla Plus V4.0](https://github.com/WaifuBeforeLaifu/Datapacks/raw/master/Vanilla%20Plus/Vanilla%20Plus%20V4.0.zip)
 
 Includes many modules that allow the player to make small changed to their game. The pack will not do anything until you run "/function vp:setup" and turn on modules.
 
