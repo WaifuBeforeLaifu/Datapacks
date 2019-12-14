@@ -3,3 +3,6 @@
 
 # V1.2
 - Yeah apparently I'm dumb and forgot to add in the natural spawning feature
+
+# V1.3
+- Added randomly enchanted iron boots to the loot table
