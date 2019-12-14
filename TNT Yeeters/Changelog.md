@@ -20,3 +20,8 @@
 
 # V2.1
 - Forgot to add a scoreboard objective in load.mcfunction
+
+# V2.2
+- Added absorbtion health
+- Explosions now always use creepers to add scaling damage
+- Added tags used by my other datapacks to the creepers
