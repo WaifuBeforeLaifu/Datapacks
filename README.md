@@ -56,6 +56,9 @@ Says "Press F to pay respects" when someone dies. Click the message to pay your 
 ### [Pumpkin Autocarver](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Pumpkin%20Autocarver)
 Drop shears onto a dropper to turn it into an autocarver. Whill carve the pumpkin in front of the dropper when it recieves a redstone pulse.
 
+### [Rocket Jump](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Rocket%20Jump)
+Adds an items that lets you perform a rocket jump. It hurts.
+
 ### [Screaming Creepers](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Screaming%20Creepers)
 Creepers scream periodically.
 
