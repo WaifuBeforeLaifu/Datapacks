@@ -50,6 +50,9 @@ Lets you grab 2 block high ledges and climb up them.
 ### [Mini UHC](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Mini%20UHC)
 Custom UHC game mode
 
+### [Player Above Sensor](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Player%20Above%20Sensor)
+Outputs a redstone pulse if a player is detected above the sensor
+
 ### [Press F to Pay Respects](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Press%20F%20to%20Pay%20Respects)
 Says "Press F to pay respects" when someone dies. Click the message to pay your respects.
 
