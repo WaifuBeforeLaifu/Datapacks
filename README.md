@@ -23,6 +23,9 @@ Dependency for any of my datapacks that include custom crafting recipes
 ### [Death Punishments](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Death%20Punishments)
 Gives players extra punishments on death. Mostly useful if keep inventory is on.
 
+### [Easy Brewing Stands](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Easy%20Brewing%20Stand)
+Give brewing stands infinite fuel without the need for spigot plugins
+
 ### [Fast Animal Aging](https://github.com/WaifuBeforeLaifu/Datapacks/tree/master/Fast%20Animal%20Aging)
 Makes animal grow into adulthood almost instantly
 
