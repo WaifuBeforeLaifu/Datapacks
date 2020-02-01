@@ -5,3 +5,4 @@
 - Give him a visible name
 - Give him a custom head
 - Custom death message to nearby players along with smoke clouds
+- Update rng loot tables for spigot compatibility
