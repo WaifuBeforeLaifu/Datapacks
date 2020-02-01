@@ -6,3 +6,6 @@
 
 # V1.3
 - Added randomly enchanted iron boots to the loot table
+
+# V1.4
+- Updated loot tables to be compatible with spigot/papermc
