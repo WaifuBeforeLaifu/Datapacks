@@ -25,3 +25,6 @@
 - Added absorbtion health
 - Explosions now always use creepers to add scaling damage
 - Added tags used by my other datapacks to the creepers
+
+# V2.3
+- Updated rng loot tables to work properly with spigot/papermc
