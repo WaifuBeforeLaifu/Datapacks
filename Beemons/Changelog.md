@@ -5,7 +5,7 @@
 # V1.2
 - Updated loot tables to be compatible with spigot/papermc
 
-# V2.0 (Confirmed)
+# V2.0
 - Removed useless code related to teams
 - Reduced spawn rate from 2% to 1%
 - Increased wither skull drop chance from 5% to 15% in easy and normal and 20% in hard
