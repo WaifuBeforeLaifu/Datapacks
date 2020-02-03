@@ -6,3 +6,7 @@
 - Cleaned up some function files
 - Campfire regen now only activats on players not at 20 hp
 - Added opt out option for crawling
+
+# V5.0
+- Optimized a lot of commands 
+- Removed useless function files
