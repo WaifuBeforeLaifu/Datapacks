@@ -16,6 +16,7 @@
 - Added name to explosion creepers so death messages show up properly
 - Added name to the skeletons
 - Skeletons now rarely drop a custom melee weapon
+- Skeletons now rarely drop a custom bow
 - Hive drop now has 1 bee inside of it
 - Increased armor from 0 to 4
 - Skeletons will not despawn when within 80 blocks of a player
