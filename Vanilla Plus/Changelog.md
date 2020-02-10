@@ -10,3 +10,7 @@
 # V5.0
 - Optimized a lot of commands 
 - Removed useless function files
+
+# V5.1
+- Fixed the crawling toggle to actually work
+- Changed some commands so they only run every seconds instead of every tick to reduce lag
